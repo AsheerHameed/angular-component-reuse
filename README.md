@@ -1,5 +1,5 @@
 # Component
-
+## A simple angular app with a button component which showcase component reusability
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
 ## Development server
